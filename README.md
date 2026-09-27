@@ -8,11 +8,12 @@
 ### Second Anarchy version
 <img src="https://github.com/Akr4ta/neon-icon-theme/blob/main/image_neon-anarchy-op2.png" alt="e.g image">
 
-Icon theme that combines BeautyLine, Sweet, Tela and Candy, harmonized with the Catppuccin Mocha color palette.
+Icon theme that combines BeautyLine, Candy, Sweet, Tela and Breeze, harmonized with the Catppuccin Mocha color palette.
 * BeautyLine for the majority of the icons,
-* Tela for symbolic icons,
 * Candy to replace some app icons,
-* Sweet for the cursor and folder themes,
+* Tela for symbolic icons,
+* Sweet for the folders,
+* Breeze for the cursor,
 * Catppuccin Mocha as the color reference.
 
 There are three versions: neon (the standard), neon-anarchy, and neon-anarchy-op2. The only differences are: in the neon-anarchy version, the menu/app grid icon is replaced by the anarchist "A" symbol, and in neon-anarchy-op2, the cosmic launcher icon is replaced by the anarchist "A" symbol.
